@@ -1,2 +1,2 @@
-# liquibase-example
-Example of generation liquibase changsets by gradle plugin
+# liquibase-gradle-example
+Example of liquibase change sets generation by gradle plugin
